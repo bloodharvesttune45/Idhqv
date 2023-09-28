@@ -1,10 +1,9 @@
 {
-    "IIoqqnv": {
-        "code": "200",
-        "message": true,
-        "OiqData": {
-            "Iopqq": false,
-            "is": false
+    "SoltsGame": {
+        "code": 200,
+        "GameData": {
+            "Inapg": false,
+            "version": "1.0.0"
         }
     }
 }
